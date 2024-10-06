@@ -19,5 +19,5 @@ I have made a fork of this theme: https://www.reddit.com/r/jellyfin/comments/12w
 add on custom css
 
 ```
-@import 'https://cdn.jsdelivr.net/gh/ozkansoyturk/jellyfin-theme@main/glassmorphism/theme.css';
+@import 'https://cdn.jsdelivr.net/gh/ozkansoyturk/jellyfinTheme@main/glassmorphism/theme.css';
 ```
