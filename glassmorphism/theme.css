@@ -425,8 +425,8 @@ html.preload.layout-desktop {
 .skinHeader-withBackground {
   background: rgba(255, 255, 255, 0.25);
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(var(--blur));
-  -webkit-backdrop-filter: blur(var(--blur));
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
   border-bottom: 1px solid rgba(255, 255, 255, 0.18);
 }
 
@@ -466,8 +466,8 @@ html.preload.layout-desktop {
 .paperList,
 .visualCardBox {
   background-color: #202020a8;
-  backdrop-filter: blur(var(--blur));
-  -webkit-backdrop-filter: blur(var(--blur));
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
 }
 
 .cardTextCentered,
