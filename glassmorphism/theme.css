@@ -475,10 +475,6 @@ html.preload.layout-desktop {
   padding-bottom: 5%;
 }
 
-.cardText-first {
-  border-top: 1px solid rgba(255, 255, 255, 0.18);
-}
-
 .indicator {
   background: linear-gradient(135deg, rgba(170, 92, 195, 0.5) 0%, rgba(3, 163, 220, 0.5) 100%);
   backdrop-filter: blur(var(--blur));
@@ -555,4 +551,12 @@ html.preload.layout-desktop {
   .libraryPage:not(.noSecondaryNavPage) {
     padding-top: 9em !important;
   }
+}
+
+.cardImageContainer {
+  border-radius: 10px;
+}
+
+.itemProgressBarForeground {
+  background-color: #ffffff;
 }
