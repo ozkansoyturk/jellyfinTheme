@@ -387,7 +387,7 @@ html.preload.layout-desktop {
 }
 
 .dialog {
-  background-color: #0000003d;
+/*  background-color: #0000003d; */
   backdrop-filter: blur(var(--blur));
   -webkit-backdrop-filter: blur(var(--blur));
   border: 1px solid rgba(255, 255, 255, 0.18);
@@ -428,7 +428,7 @@ html.preload.layout-desktop {
 }
 
 .cardOverlayContainer {
-  background: #0000003d;
+ /* background: #0000003d; */
   backdrop-filter: blur(var(--blur));
   -webkit-backdrop-filter: blur(var(--blur));
   transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
